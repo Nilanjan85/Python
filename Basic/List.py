@@ -65,6 +65,19 @@ l = len(cars)
 
 print(f" Length of the list {l}")
 
+# adding a list to another
+car_lux = ["BMW","Mercedes","ferary"]
+
+cars.extend(car_lux)
+
+print("New cars added {}".format(cars))
+
+# remove by value
+cars.remove("ferary")
+print(cars)
+
+
+
 
 
 
