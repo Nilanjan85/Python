@@ -2,5 +2,6 @@ This folder contains all the Basic Programming in Python.
 1. String
 2. List,Tuple,Sets
 3. Dictionaries
-4. 
-5. OOP(Object Oriented Programming)
+4. Functions
+5. File Handling
+6. OOP(Object Oriented Programming)
